@@ -40,10 +40,16 @@ const Home = () => {
           <h1>
             <span className={letterClass}>o</span>
             <span className={`${letterClass} _12`}>i,</span>
-            <br />
+            <span className={`${letterClass} _12`}> </span>
+            <span className={`${letterClass} _12`}>e</span>
+            <span className={`${letterClass} _12`}>u</span>
+            <span className={`${letterClass} _12`}> </span>
             <span className={`${letterClass} _13`}>s</span>
             <span className={`${letterClass} _14`}>o</span>
             <span className={`${letterClass} _15`}>u</span>
+            <br />
+            <span className={`${letterClass} _14`}>o</span>
+
             <img
               src={LogoTitle}
               alt="JavaScript Developer Name, Web Developer Name"
