@@ -28,23 +28,24 @@ const About = () => {
           <h1>
             <AnimatedLetters
               letterClass={letterClass}
-              strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
+              strArray={['S', 'o', 'b', 'r', 'e', ' ', 'm', 'i', 'm']}
               idx={15}
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          Sou um entusiasta e curioso por novas tecnologias desde criança.
+           Adoro aprender, explorar e descobrir novas ideias.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          O meu desejo pelo desenvolvimento das minhas habilidades em programação, através da educação,
+          tecnologia, criatividade e inovação, tem sido o que me move dia após dia em direção
+           aos meus objetivos. Neste contexto busco colocar a mão na massa, participando de projetos, 
+           desafios e palestras.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          Estou em busca da minha primeira oportunidade como Desenvolvedor.
+          </p>
+          <p>Aprendendo na prática sobre: React, JavaScript, HTML5, CSS3, Bootstrap, Git, Scrum.
           </p>
         </div>
 
