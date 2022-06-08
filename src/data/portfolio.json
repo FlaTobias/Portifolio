@@ -19,16 +19,10 @@
             "url": "https://spiderman-flaviotobias.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/pet.png",
+            "title": "Meu Querido Pet",
+            "description": "Html, Css, Javascript, Bootstrap",
+            "url": "https://meuqueridopet.netlify.app/"
         }
     ]
 }
