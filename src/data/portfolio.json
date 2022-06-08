@@ -1,10 +1,10 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/pokemon.png",
+            "title": "Pokedex",
+            "description": "Html, JavaScript, Scss, Gulp",
+            "url": "https://629abd1766630818a038bc39--flavio-pokedex.netlify.app/"
         },
         {
             "cover": "/portfolio/1/one.png",
