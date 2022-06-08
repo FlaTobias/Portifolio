@@ -7,10 +7,10 @@
             "url": "https://629abd1766630818a038bc39--flavio-pokedex.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/share.png",
+            "title": "ShareMe",
+            "description": "React, Sanity, Tailwind",
+            "url": "https://sharemejsm.netlify.app/login"
         },
         {
             "cover": "/portfolio/1/one.png",
