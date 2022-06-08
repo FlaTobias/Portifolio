@@ -13,10 +13,10 @@
             "url": "https://sharemejsm.netlify.app/login"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/spider-man.png",
+            "title": "Spider-man",
+            "description": "Html, Sass, JavaScript, Gsap",
+            "url": "https://spiderman-flaviotobias.netlify.app/"
         },
         {
             "cover": "/portfolio/1/one.png",
