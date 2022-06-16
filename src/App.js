@@ -6,18 +6,16 @@ import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
 import './App.scss'
 
-function App() {
+const App = () => {
   return (
-    <>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="sobre" element={<About />} />
+          <Route path="about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/portfolio" element={<Portfolio />} />
         </Route>
       </Routes>
-    </>
   )
 }
 
