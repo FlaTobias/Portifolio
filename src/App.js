@@ -6,7 +6,7 @@ import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
 import './App.scss'
 
-const App = () => {
+function App() {
   return (
     <>
       <Routes>
