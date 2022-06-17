@@ -23,6 +23,12 @@
             "title": "Meu Querido Pet",
             "description": "Html, Css, Javascript, Bootstrap",
             "url": "https://meuqueridopet.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/banner.png",
+            "title": "Gold Gym",
+            "description": "Html, Css, React, Material UI",
+            "url": "https://flavio-gym.netlify.app/"
         }
     ]
 }
