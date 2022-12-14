@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {
-  faAngular,
+  faSalesforce,
   faCss3,
   faGitAlt,
   faHtml5,
