@@ -11,7 +11,7 @@ const Home = () => {
 
   const nameArray = ['l', 'a', 'v', 'i', 'o']
   const jobArray = [
-    'd',
+    'D',
     'e',
     'v',
     ' ',
