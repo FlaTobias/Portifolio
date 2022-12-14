@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import {
-  fa-salesforce,
+  fa-brands fa-salesforce,
   faCss3,
   faGitAlt,
   faHtml5,
   faJsSquare,
-  fa-React,
+  faReact,
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
