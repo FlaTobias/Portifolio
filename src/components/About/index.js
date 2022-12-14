@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import {
-  fa-brands fa-salesforce,
-  faCss3,
   faGitAlt,
+  faCss3,
+  fasalesforce,
   faHtml5,
   faJsSquare,
   faReact,
