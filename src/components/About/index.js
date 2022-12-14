@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {
   faGitAlt,
   faCss3,
-  fasalesforce,
+  faSalesforce,
   faHtml5,
   faJsSquare,
   faReact,
