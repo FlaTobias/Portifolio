@@ -43,9 +43,9 @@ const About = () => {
            desafios e palestras.
           </p>
           <p>
-          Estou em busca da minha primeira oportunidade como Desenvolvedor.
+          Estou em busca da minha primeira oportunidade como Desenvolvedor Salesforce.
           </p>
-          <p>Aprendendo na prática sobre: React, JavaScript, HTML5, CSS3, Bootstrap, Git, Scrum.
+          <p>Aprendendo na prática sobre: Apex, LWC, Aura, Visualforce HTML5, CSS3, JavaScript, Bootstrap, Git.
           </p>
         </div>
 
